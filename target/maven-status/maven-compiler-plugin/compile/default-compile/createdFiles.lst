@@ -1,0 +1,12 @@
+br\com\alura\literalura\model\DadosAutor.class
+br\com\alura\literalura\model\Autor.class
+br\com\alura\literalura\model\Livro.class
+br\com\alura\literalura\principal\Principal.class
+br\com\alura\literalura\model\DadosLivro.class
+br\com\alura\literalura\repository\LivroRepository.class
+br\com\alura\literalura\LiteraluraApplication.class
+br\com\alura\literalura\model\DadosResultado.class
+br\com\alura\literalura\service\ConverteDados.class
+br\com\alura\literalura\repository\AutorRepository.class
+br\com\alura\literalura\service\IConverteDados.class
+br\com\alura\literalura\service\ConsumoApi.class

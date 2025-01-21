@@ -1,0 +1,12 @@
+D:\literalura\src\main\java\br\com\alura\literalura\LiteraluraApplication.java
+D:\literalura\src\main\java\br\com\alura\literalura\model\Autor.java
+D:\literalura\src\main\java\br\com\alura\literalura\model\DadosAutor.java
+D:\literalura\src\main\java\br\com\alura\literalura\model\DadosLivro.java
+D:\literalura\src\main\java\br\com\alura\literalura\model\DadosResultado.java
+D:\literalura\src\main\java\br\com\alura\literalura\model\Livro.java
+D:\literalura\src\main\java\br\com\alura\literalura\principal\Principal.java
+D:\literalura\src\main\java\br\com\alura\literalura\repository\AutorRepository.java
+D:\literalura\src\main\java\br\com\alura\literalura\repository\LivroRepository.java
+D:\literalura\src\main\java\br\com\alura\literalura\service\ConsumoApi.java
+D:\literalura\src\main\java\br\com\alura\literalura\service\ConverteDados.java
+D:\literalura\src\main\java\br\com\alura\literalura\service\IConverteDados.java
